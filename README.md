@@ -1,3 +1,12 @@
+# README
+
+This is the repository for all of the bootloaders compiled for UConn Formula SAE Boards.
+
+Updated instructions are below:
+
+
+**The following is the original README from the uf2-samdx1 repo:**
+
 # UF2 Bootloader
 
 This repository contains a bootloader, derived from Atmel's SAM-BA,
