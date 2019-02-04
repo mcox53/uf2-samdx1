@@ -1,4 +1,4 @@
-BOARD=zero
+BOARD=uconnfsae-samd21-dev
 -include Makefile.user
 include boards/$(BOARD)/board.mk
 CC=arm-none-eabi-gcc
